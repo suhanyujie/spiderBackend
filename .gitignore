@@ -3,3 +3,4 @@
 .env.ini
 *.gz
 /vendor
+Temp/pid.pid
