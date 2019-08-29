@@ -4,3 +4,4 @@
 *.gz
 /vendor
 Temp/pid.pid
+composer.lock

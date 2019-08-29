@@ -1,5 +1,7 @@
 ## spider backend
 
+## install
+* Temp 目录需要 777 权限
 
 
 ### 资料

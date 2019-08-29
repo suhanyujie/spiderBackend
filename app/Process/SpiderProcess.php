@@ -24,7 +24,7 @@ class SpiderProcess extends AbstractProcess
         // TODO: Implement onShutDown() method.
     }
 
-    public function onReceive(string $str)
+    public function onReceive(string $str='')
     {
         // TODO: Implement onReceive() method.
     }
